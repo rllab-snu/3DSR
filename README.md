@@ -45,6 +45,22 @@ docker pull howoongjun/3dgs:habitat
 
     - The sample data for HM3D will be uploaded soon
 
+## Prerequisites
+
+Before running the code, please [download the checkpoint](https://drive.google.com/drive/folders/1R3NPaD1-Mu-WvbaE8aQbcifBN1CWzzgR?usp=sharing) for the upsampling network and save it in the ```super_resolution/checkpoints``` folder. 
+ The link provides checkpoints for the Replica and TUM datasets.
+
+- Folder structure
+```bash
+vr_map
+    - super_resolution
+        - checkpoints
+            - checkpoint_srresnet_voxel_x4_office0_300x170.pth.tar
+            - checkpoint_srresnet_voxel_x4_office1_300x170.pth.tar
+            ...
+
+```
+
 ## Run
 
 You can try rendering with sample data using demo notebook.
