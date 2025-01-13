@@ -8,6 +8,12 @@
 
 ## Environments
 
+We provide docker repository for this work. 
+
+```bash
+docker pull howoongjun/3dgs:habitat
+```
+
 ## Datasets
 - Replica
 
@@ -27,6 +33,17 @@
             traj.txt
         ...
     ```
+
+- TUM
+
+    - Download
+    ```bash
+    bash download_tum.sh
+    ```
+
+- HM3D
+
+    - The sample data for HM3D will be uploaded soon
 
 ## Run
 
