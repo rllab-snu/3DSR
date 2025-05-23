@@ -1,6 +1,6 @@
 <div align=center>
 
-# Memory Efficient Voxel-Based 3D Gaussian Splatting Map for Visual Localization
+# Memory Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics
 
 [Howoong Jun](https://howoongjun.github.io/), [Seongbo Ha](https://riboha.github.io/), [Hyeonwoo Yu](https://bogus2000.github.io/), and [Songhwai Oh](https://rllab.snu.ac.kr/people/songhwai-oh)
 
