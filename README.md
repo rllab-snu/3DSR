@@ -52,7 +52,7 @@ Before running the code, please [download the checkpoint](https://drive.google.c
 
 - Folder structure
 ```bash
-vr_map
+3dsr
     - super_resolution
         - checkpoints
             - checkpoint_srresnet_voxel_x4_office0_300x170.pth.tar
@@ -71,9 +71,9 @@ Additionally, you can review the evaluation results on image quality metrics, in
 ## BibTex
 
 ```bash
-@InProceedings{jun2025vrmap,
+@InProceedings{jun20253dsr,
     author  = {Jun, Howoong and Ha, Seongbo and Yu, Hyeonwoo and Oh, Songhwai},
-    title   = {Memory Efficient Voxel-Based 3D Gaussian Splatting Map for Visual Localization},
+    title   = {Memory Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics},
     year    = {2025}
 }
 ```
