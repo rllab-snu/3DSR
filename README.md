@@ -2,7 +2,7 @@
 
 # Memory Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics
 
-[Howoong Jun](https://howoongjun.github.io/), [Seongbo Ha](https://riboha.github.io/), [Hyeonwoo Yu](https://bogus2000.github.io/), and [Songhwai Oh](https://rllab.snu.ac.kr/people/songhwai-oh)
+[Howoong Jun](https://howoongjun.github.io/), [Seongbo Ha](https://riboha.github.io/), [Jaewon Lee](https://rllab.snu.ac.kr/people/jaewon-lee/jaewon-lee), [Hyeonwoo Yu](https://bogus2000.github.io/), and [Songhwai Oh](https://rllab.snu.ac.kr/people/songhwai-oh)
 
 </div>
 
