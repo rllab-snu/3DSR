@@ -74,6 +74,7 @@ Additionally, you can review the evaluation results on image quality metrics, in
 @InProceedings{jun20253dsr,
     author  = {Jun, Howoong and Ha, Seongbo and Lee, Jaewon and Yu, Hyeonwoo and Oh, Songhwai},
     title   = {Memory Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics},
-    year    = {2025}
+    journal={IEEE Robotics and Automation Letters},
+    year    = {2026}
 }
 ```
