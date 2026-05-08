@@ -4,6 +4,10 @@
 
 [Howoong Jun](https://howoongjun.github.io/), [Seongbo Ha](https://riboha.github.io/), [Jaewon Lee](https://rllab.snu.ac.kr/people/jaewon-lee/jaewon-lee), [Hyeonwoo Yu](https://bogus2000.github.io/), and [Songhwai Oh](https://rllab.snu.ac.kr/people/songhwai-oh)
 
+### IEEE Robotics and Automation Letters, 2026
+
+[Paper](https://ieeexplore.ieee.org/document/11242030) | [Video](https://youtu.be/kTzwtivYqSc?si=xZ1uyeCxhRYiXj22)
+
 </div>
 
 ## Environments
@@ -74,7 +78,7 @@ Additionally, you can review the evaluation results on image quality metrics, in
 @InProceedings{jun20253dsr,
     author  = {Jun, Howoong and Ha, Seongbo and Lee, Jaewon and Yu, Hyeonwoo and Oh, Songhwai},
     title   = {Memory Efficient Voxelized Renderable Neural 3D Spatial Representation for Vision-Based Robotics},
-    journal={IEEE Robotics and Automation Letters},
+    journal = {IEEE Robotics and Automation Letters},
     year    = {2026}
 }
 ```
