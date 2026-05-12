@@ -15,7 +15,7 @@
 We provide docker repository for this work. 
 
 ```bash
-docker pull howoongjun/3dgs:habitat
+docker pull howoongjun/3dgs:3dsr
 ```
 
 ## Datasets
